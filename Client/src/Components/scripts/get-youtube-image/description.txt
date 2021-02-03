@@ -1,0 +1,3 @@
+Script: get-youtube-image.j
+Description: get title and image from youtube link
+Example: node get-youtube-image.js https://www.youtube.com/watch?v=BdcG8wZ0qhA

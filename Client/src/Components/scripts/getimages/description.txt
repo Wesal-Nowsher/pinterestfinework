@@ -1,0 +1,3 @@
+Script: getimages.js
+Description: find images using Pixabay API
+Example: node getimages.js "birds, cars" 50

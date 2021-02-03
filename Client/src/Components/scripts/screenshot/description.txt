@@ -1,0 +1,3 @@
+Script: screenshot.js
+Description: take screenshot of webpage and save it to file
+Example: node screenshot.js https://google.com example.png

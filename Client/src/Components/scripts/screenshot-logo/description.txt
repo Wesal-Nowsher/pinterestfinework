@@ -1,0 +1,3 @@
+Script: screenshot-logo.js
+Description: save website logo
+Example: node screenshot.js https://monday.com logo.png

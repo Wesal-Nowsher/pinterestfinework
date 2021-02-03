@@ -1,0 +1,3 @@
+Script: website-images.js
+Description: display a list of webpage image ULRs
+Example: node website-images.js https://google.com
